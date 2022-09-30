@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Mvc.Models;
-namespace Mvc.Controllers
+using MVC1.Models;
+
+namespace MVC1.Controllers
 {
     public class StringProcessController:Controller
     

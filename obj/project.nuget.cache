@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQHWR+J2vDZTyxzQwnwayGowtMnXWBZCV/HV0zYjHZsmA0gSUmvFG10EV+BFIMrzeoW/Fz2cADf65eD3KbCl7w==",
+  "dgSpecHash": "eTUfuR+A2qQC3BcktKrlTEB4HQwpJhSxeMHXQ1sGlgkaSQC6PBCjVOpGpehX/qPYdL0GiG6HaQ4wKotqCSV9RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

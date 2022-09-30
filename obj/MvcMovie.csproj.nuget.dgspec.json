@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj": {}
+    "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj": {
+    "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\obj\\",
+        "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\Mvc\\MVC\\PhuongQuocChienBTH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

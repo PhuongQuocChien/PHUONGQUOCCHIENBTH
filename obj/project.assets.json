@@ -10230,11 +10230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\MVC\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\MVC\\MVC\\PhuongQuocChienBTH\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PhuongQuocChien\\Mvc\\obj\\",
+      "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\MVC\\MVC\\PhuongQuocChienBTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,5 +1,5 @@
 using System.ComponentModel.Design.Serialization;
-namespace Mvc.Models
+namespace MVC1.Models
 {
     public class StringProcess
 {

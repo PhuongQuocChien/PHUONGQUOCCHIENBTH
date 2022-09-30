@@ -57,9 +57,10 @@ namespace MvcMovie.Models.Process
             else 
             {
                 x1=(double)-heSoC/heSoB;
-                thongBao ="Phuong trinh co nghiem duy nhat: x={0}";
+                thongBao ="Phuong trinh co nghiem duy nhat: x={0}" + (Math.Round(x1, 2));
             }
             return thongBao;
+            
          }
         //Neu a!=0 thif bat dau bac 2
         else

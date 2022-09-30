@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using MvcMovie.Models;
 using MvcMovie.Models.Process;
 
-namespace Mvc.Controllers
+namespace MvcMovie.Controllers
 {
     public class Demo1Controller : Controller    
     {
@@ -33,9 +33,9 @@ namespace Mvc.Controllers
         double b = Convert.ToDouble(heSoB);
         double c = Convert.ToDouble(heSoC);
         string thongBao = gpt.GiaiPhuongTrinhBacHai(a, b, c);
-        ViewBag.thongBao= thongBao ; 
+        ViewBag.thongbao= thongBao ; 
         return View();
       }
     }
- }   
+}   
        
