@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Mvc.Models;
-namespace dkjasd.Controllers
+namespace Mvc.Controllers
 {
     public class StringProcessController:Controller
     
@@ -21,13 +21,13 @@ namespace dkjasd.Controllers
         return View();
       }
       StringProcess strPr =new StringProcess();
-       public IActionResult ce()
+       public IActionResult Index1()
       {
             return View();
       }
       //acction de nhan du loieu gui len
       [HttpPost]
-      public IActionResult ce(string strInput )
+      public IActionResult Index1(string strInput )
       {
         string StringProcess= strPr.UpperToLower(strInput);
         ViewBag.b= StringProcess;
@@ -36,13 +36,13 @@ namespace dkjasd.Controllers
       }
       
         StringProcess strP =new StringProcess();
-       public IActionResult meme()
+       public IActionResult Index3()
       {
             return View();
       }
       //acction de nhan du loieu gui len
       [HttpPost]
-      public IActionResult meme(string strInput )
+      public IActionResult Index3(string strInput )
       {
         string StringProcess= strP.CapitalizeOneFirstCharacter(strInput);
         ViewBag.c= StringProcess;
@@ -50,13 +50,13 @@ namespace dkjasd.Controllers
         return View();
      }
       StringProcess str =new StringProcess();
-       public IActionResult mem()
+       public IActionResult Index2()
       {
             return View();
       }
       //acction de nhan du loieu gui len
       [HttpPost]
-      public IActionResult mem(string strInput )
+      public IActionResult Index2(string strInput )
       {
         string StringProcess= str.RemoveVietnameseAccents(strInput);
         ViewBag.d= StringProcess;
@@ -64,17 +64,17 @@ namespace dkjasd.Controllers
         return View();
      }
      StringProcess st =new StringProcess();
-       public IActionResult memi()
+       public IActionResult Index4()
       {
             return View();
       }
     
       //acction de nhan du loieu gui len
       [HttpPost]
-      public IActionResult memi(string strInput )
+      public IActionResult Index4(string strInput )
       {
         string StringProcess= strPro.CapitalizeFirstCharacter(strInput);
-        ViewBag.p= StringProcess;
+        ViewBag.e= StringProcess;
     
         return View();
       }
